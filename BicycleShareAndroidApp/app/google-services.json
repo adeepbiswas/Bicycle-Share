@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130780306500",
+    "firebase_url": "https://bicycleshare-ec024.firebaseio.com",
+    "project_id": "bicycleshare-ec024",
+    "storage_bucket": "bicycleshare-ec024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130780306500:android:8dee944b6deb7d71",
+        "android_client_info": {
+          "package_name": "com.acm.bicycleshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130780306500-cevt79h9erpffdab5mo2dceaqpgoi0d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acm.bicycleshare",
+            "certificate_hash": "5bd7d0433953b8e941179d5545535dcaff74b6c9"
+          }
+        },
+        {
+          "client_id": "130780306500-69bef0ejsnjui9obv5kecad7k9q6npeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATR8L1rl3T_sNm8E0RotvEzSVL2bsusok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130780306500-69bef0ejsnjui9obv5kecad7k9q6npeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
